@@ -1,0 +1,1 @@
+# cordova-check-installed-services
